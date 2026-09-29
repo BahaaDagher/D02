@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ArrayApp/ArrayApp.csproj" />
+  <Project Path="FirstApp/FirstApp.csproj" />
+  <Project Path="List/List.csproj" />
+  <Project Path="Solvechallenge1/Solvechallenge1.csproj" />
+  <Project Path="solveChallenge2/solveChallenge2.csproj" />
+</Solution>
